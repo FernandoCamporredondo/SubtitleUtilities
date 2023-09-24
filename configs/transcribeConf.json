@@ -1,0 +1,12 @@
+{
+	"model_size_or_path": "large-v2",
+	"device": "cpu",
+	"cpu_threads": 6,
+	"condition_on_previous_text": false,
+	"language": "ja",
+	"best_of": 5,
+	"beam_size": 5,
+	"patience": 1.0,
+	"length_penalty": 1.0,
+	"max_initial_timestamp": 10000
+}
